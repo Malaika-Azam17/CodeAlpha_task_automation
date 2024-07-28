@@ -9,7 +9,7 @@ from datetime import datetime
 from PIL import Image
 import subprocess
 
-API_KEY = '9464a9014bb64f3ca0972814242307'  
+API_KEY = 'add your weather API then it will work'  
 
 def backup_files(source_dir, backup_dir):
     try:
